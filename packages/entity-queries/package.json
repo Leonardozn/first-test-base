@@ -1,0 +1,10 @@
+{
+	"name": "@first-test-base/entity-queries",
+	"version": "1.0.0",
+	"description": "Query constructor.",
+	"main": "index",
+	"dependencies": {
+		"@first-test-base/handle-errors": "*",
+		"@first-test-base/db-connections": "*"
+	}
+}

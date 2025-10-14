@@ -1,0 +1,9 @@
+{
+	"name": "@first-test-base/server-configuration",
+	"version": "1.0.0",
+	"description": "Server configuration.",
+	"main": "index",
+	"dependencies": {
+		"express": "4.21.2"
+	}
+}

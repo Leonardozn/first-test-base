@@ -1,0 +1,21 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "start": "node .",
+    "test": "npx jest --runInBand"
+  },
+  "dependencies": {
+    "@first-test-base/server-configuration": "*",
+    "@first-test-base/cors-policy": "*",
+    "@first-test-base/request-logger": "*",
+    "@first-test-base/env-variables": "*",
+    "@first-test-base/prototypes": "*",
+    "@first-test-base/handle-response": "*",
+    "@first-test-base/db-connections": "*",
+    "@first-test-base/data-validator": "*",
+    "@first-test-base/entity-queries": "*"
+  }
+}
