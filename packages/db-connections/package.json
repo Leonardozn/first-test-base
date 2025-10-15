@@ -4,6 +4,6 @@
 	"description": "Connection to differet databases.",
 	"main": "index",
 	"dependencies": {
-		"mongoose": "8.8.3"
+		"mongoose": "8.9.5"
 	}
 }
